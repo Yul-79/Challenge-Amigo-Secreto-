@@ -20,10 +20,10 @@ Esta es una aplicación creada con **CSS, HTML y JavaScript**, que permite:
 2. Abre `index.html` en tu navegador.
 3. En el campo de texto:
    - Escribe un nombre (escribe por lo menos 2 nombres) y haz clic en **"Añadir"**.
-   - Si el campo está vacío, mostrará una alerta pidiendo un nombre válido.
+   - Si el campo está vacío, se mostrará una alerta pidiendo un nombre válido.
 4. Cada nombre agregado aparecerá como elemento `<li>` dentro de la lista.
 5. Cuando tengas al menos un nombre, haz clic en **"Sortear Amigo"**.
-6. Se elegirá un nombre al azar, y aparecerá en la página  **"El Nombre Ganador"**.
+6. Se elegirá un nombre al azar, y aparecerá en la página  **"El nombre del amigo secreto ganador"**.
 
 ## Acerca de mí 🙋🏻‍♀💫
 
